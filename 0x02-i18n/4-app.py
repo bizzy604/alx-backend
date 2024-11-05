@@ -2,7 +2,7 @@
 """
 Task 4: A Basic Flask app with internationalization support.
 """
-from flask_babel import Babel
+from flask_babelex import Babel
 from flask import Flask, render_template, request
 
 

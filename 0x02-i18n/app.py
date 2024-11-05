@@ -5,7 +5,7 @@ Task 8: A Basic Flask app with internationalization support.
 import pytz
 from datetime import datetime
 from typing import Union, Dict
-from flask_babel import Babel, format_datetime
+from flask_babelex import Babel, format_datetime
 from flask import Flask, render_template, request, g
 
 
